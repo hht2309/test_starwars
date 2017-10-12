@@ -1,5 +1,6 @@
 # test_starwars
-Build a responsive web page with parallax effet
+Build a responsive web page with parallax effet.
+
 To run this projet: 
 1. Clone projet from this repository. 
 2. Navigate to root folder (./starwars)
